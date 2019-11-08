@@ -10,9 +10,9 @@ Based a residential area of a certain scale (population, area) , what is the sit
 
 ## Model
 #### Agent1: mailman
-Property | Meaning
-- | -
-goal? | Does he have a target station,?
+Property|Meaning
+-|-
+goal?|Does he have a target station,?
 carryingnum | The amount of delivery he is carring
 full? | Does he over loaded
 manmaxnum | The capacity of the mailman agent
